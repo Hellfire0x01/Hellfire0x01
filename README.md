@@ -1,4 +1,6 @@
-## Well hello! Nice to meet ya. 
+# ![Squirtle](https://media.giphy.com/media/R4xEU4q4SEoNYRDkIS/giphy.gif)
+
+### Well hello! Nice to meet ya. 
 
 I am Akshat Gupta, pursuing Computer Science for my undergraduate degree. I have a keen and profound interest in Cyber Security and Hacking especially in Penetration Testing, Red Teaming and Network Security. I love reading articles and blogs, be it technical or non-technical. I am also getting my hands in Blue Team and Cloud Security, *slowly but yes*. 
 
@@ -21,13 +23,13 @@ I listen podcast related to Cyber Security and Hacking on these platforms :
 - [The Hacker Factory](https://www.itspmagazine.com/the-hacker-factory-podcast)
 - [Darknet Diaries](https://darknetdiaries.com/)
 
-### Socials 
+#### Socials 
 
 - [![Twitter Follow](https://img.shields.io/twitter/follow/Hellfire0x01?style=social)](https://twitter.com/Hellfire0x01)
 - [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/akshat-gupta-2173b5193/)
 - `Hellfire#3915` (Discord)
 
-### Profiles
+#### Profiles
 
 <!-- [![TryHackme](https://tryhackme-badges.s3.amazonaws.com/hellfire0x01.png)](https://tryhackme.com/p/hellfire0x01) -->
 [![HackTheBox](https://www.hackthebox.com/badge/image/419226)](https://app.hackthebox.com/profile/419226)
