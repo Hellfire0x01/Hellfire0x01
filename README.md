@@ -25,8 +25,8 @@ I listen podcast related to Cyber Security and Hacking on these platforms :
 
 #### Socials 
 
-- [![Twitter Follow](https://img.shields.io/twitter/follow/Hellfire0x01?style=social)](https://twitter.com/Hellfire0x01)
-- [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/akshat-gupta-2173b5193/)
+- [![Twitter Badge](https://img.shields.io/badge/-@Hellfire0x01-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Hellfire0x01)](https://twitter.com/Hellfire0x01)
+- [![Linkedin Badge](https://img.shields.io/badge/-AkshatGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshat-gupta-2173b5193/)](https://www.linkedin.com/in/akshat-gupta-2173b5193/)
 - `Hellfire#3915` (Discord)
 
 #### Profiles
