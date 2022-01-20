@@ -31,7 +31,7 @@ I listen podcast related to Cyber Security and Hacking on these platforms :
 
 #### Profiles
 
-<!-- [![TryHackme](https://tryhackme-badges.s3.amazonaws.com/hellfire0x01.png)](https://tryhackme.com/p/hellfire0x01) -->
+[![TryHackme](https://tryhackme-badges.s3.amazonaws.com/hellfire0x01.png)](https://tryhackme.com/p/hellfire0x01)
 [![HackTheBox](https://www.hackthebox.com/badge/image/419226)](https://app.hackthebox.com/profile/419226)
 
 You can find my blogs on [Medium](https://hellfire0x01.medium.com/). Here I publish blogs related to Cyber Security and writeups of ctf challenges. If you want to connect or drop me a text, you have my socials. (:
