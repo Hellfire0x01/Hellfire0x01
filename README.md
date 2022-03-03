@@ -34,4 +34,12 @@ I listen podcast related to Cyber Security and Hacking on these platforms :
 [![TryHackme](https://tryhackme-badges.s3.amazonaws.com/hellfire0x01.png)](https://tryhackme.com/p/hellfire0x01)
 [![HackTheBox](https://www.hackthebox.com/badge/image/419226)](https://app.hackthebox.com/profile/419226)
 
-You can find my blogs on [Medium](https://hellfire0x01.medium.com/). Here I publish blogs related to Cyber Security and writeups of ctf challenges. If you want to connect or drop me a text, you have my socials. (:
+#### Blogs 
+
+Here I publish blogs related to Cyber Security and Hacking on [Medium](https://hellfire0x01.medium.com/). 
+
+#### CTF Writeups
+
+You can find my writeups of CTF challenges on [hellfire0x01.github.io](https://hellfire0x01.github.io/).
+
+If you want to connect or drop me a text, you have my socials. (:
