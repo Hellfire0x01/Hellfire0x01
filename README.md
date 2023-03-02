@@ -2,7 +2,7 @@
 
 ### Well hello! Nice to meet ya. 
 
-I am Akshat Gupta, pursuing Computer Science for my undergraduate degree. I have a keen and profound interest in Cyber Security and Hacking especially in Penetration Testing, Red Teaming and Network Security. I love reading articles and blogs, be it technical or non-technical. I am also getting my hands in Blue Team and Cloud Security, *slowly but yes*. 
+I am Akshat Gupta, pursuing Computer Science for my undergraduate degree. I have a keen and profound interest in Cyber Security and Hacking. I try to dive deep into Defensive Security especially in **Digital Forensics & Incident Response**, **Phishing Analysis**, **Malware Analysis**, **Threat Hunting**. I love reading articles and blogs, be it technical or non-technical. Thanks for stopping by.
 
 Things I'm mostly interested :
 
@@ -43,8 +43,8 @@ You can find my writeups of CTF challenges on [hellfire0x01.github.io](https://h
 
 #### Socials 
 
-If you want to connect or drop me a text, you have my socials. (:
-
 - [![Twitter Badge](https://img.shields.io/badge/-@Hellfire0x01-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Hellfire0x01)](https://twitter.com/Hellfire0x01)
 - [![Linkedin Badge](https://img.shields.io/badge/-AkshatGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akshat-gupta-2173b5193/)](https://www.linkedin.com/in/hellfire0x01)
 - `Hellfire#3915` (Discord)
+
+If you want to connect or drop me a text, you have my socials. (:
