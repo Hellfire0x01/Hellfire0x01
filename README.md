@@ -2,17 +2,27 @@
 
 ### Well hello! Nice to meet ya. 
 
-I am Akshat Gupta, pursuing Computer Science for my undergraduate degree. I have a keen and profound interest in Cyber Security and Hacking. I try to dive deep into Defensive Security especially in **Digital Forensics & Incident Response**, **Phishing Analysis**, **Malware Analysis**, **Threat Hunting**. I love reading articles and blogs, be it technical or non-technical. Thanks for stopping by.
+I am Akshat Gupta, a graduate, full-time working as a **Threat Hunting and Threat Intelligence Analyst** passionate about becoming a professional **Digital Forensics and Incident Response Practitioner**. My key areas where all of my interest lie in **Digital Forensics**, **Incident Response**, **Threat Hunting**, **Threat Intelligence**, **Malware Analysis**, **Detection Engineering**, **Adversary Emulation** and **Ransomware Simulation**. In my professional day-to-day job, I am always involved in performing Threat Hunting driven via Adversary Emulation. I love reading articles and blogs, be it technical or non-technical. Thanks for stopping by.
 
-Things I'm mostly interested :
+Things I'm mostly interested:
 
-- **Phishing Analysis**
 - **Digital Forensics & Incident Response**
-- **Malware Analysis**
 - **Threat Hunting**
+- **Threat Intelligence**
+- **Detection Engineering**
+- **Adversary Emulation**
+- **Ransomware Simulation**
+- **Phishing Analysis**
+- **Malware Analysis**
 - **OSINT**
 
-I solve challenges on :
+My Certifications:
+
+- [**eLearnSecurity Junior Penetration Tester (eJPT)**](https://security.ine.com/certifications/ejpt-certification/)
+- [**Blue Team Level 1 (BTL1)**](https://www.securityblue.team/certifications/blue-team-level-1)
+- [**Certified Cyber Defender (CCD)**](https://cyberdefenders.org/blue-team-training/courses/certified-cyberdefender-certification/)
+
+I solve challenges on:
 
 - [CyberDefenders](https://cyberdefenders.org/)
 - [LetsDefend](https://letsdefend.io/)
@@ -20,10 +30,29 @@ I solve challenges on :
 - [TryHackme](https://tryhackme.com)
 - [HackTheBox](https://www.hackthebox.com/)
 
-I listen podcast related to Cyber Security and Hacking on these platforms :
+I listen podcast related to Cyber Security and Hacking on these platforms:
 
 - [The Hacker Factory](https://www.itspmagazine.com/the-hacker-factory-podcast)
 - [Darknet Diaries](https://darknetdiaries.com/)
+
+#### Skills
+
+Following mentioned are my wide variety of skills I have gathered over years of hardwork and experience through CTFs and as a full-time Threat Hunting Professional:
+
+<!--add table here -->
+
+|Domain|Skills|
+|:---:|:---:|
+|Digital Forensics & Incident Response||
+|Threat Hunting||
+|Threat Intelligence||
+|Detection Engineering||
+|Adversary Emulation||
+|Ransomware Simulation||
+|Phishing Analysis||
+|Malware Analysis||
+|OSINT Gathering||
+
 
 #### Profiles
 
