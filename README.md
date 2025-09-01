@@ -21,7 +21,7 @@ My Certifications:
 - [**eLearnSecurity Junior Penetration Tester (eJPT)**](https://security.ine.com/certifications/ejpt-certification/)
 - [**Blue Team Level 1 (BTL1)**](https://www.securityblue.team/certifications/blue-team-level-1)
 - [**Certified Cyber Defender (CCD)**](https://cyberdefenders.org/blue-team-training/courses/certified-cyberdefender-certification/)
-- [**eLearnSecurity Certified Incident Responder**](https://ine.com/security/certifications/ecir-certification)
+- [**eLearnSecurity Certified Incident Responder (eCIR)**](https://ine.com/security/certifications/ecir-certification)
 
 I solve challenges on:
 
