@@ -21,6 +21,7 @@ My Certifications:
 - [**eLearnSecurity Junior Penetration Tester (eJPT)**](https://security.ine.com/certifications/ejpt-certification/)
 - [**Blue Team Level 1 (BTL1)**](https://www.securityblue.team/certifications/blue-team-level-1)
 - [**Certified Cyber Defender (CCD)**](https://cyberdefenders.org/blue-team-training/courses/certified-cyberdefender-certification/)
+- [**eLearnSecurity Certified Incident Responder**](https://ine.com/security/certifications/ecir-certification)
 
 I solve challenges on:
 
@@ -43,15 +44,17 @@ Following mentioned are my wide variety of skills I have gathered over years of 
 
 |Domain|Skills|
 |:---:|:---:|
-|Digital Forensics & Incident Response||
-|Threat Hunting||
-|Threat Intelligence||
-|Detection Engineering||
-|Adversary Emulation||
-|Ransomware Simulation||
-|Phishing Analysis||
-|Malware Analysis||
-|OSINT Gathering||
+|Digital Forensics & Incident Response|Wireshark, Autopsy, Arsenal Image Mounter, EZ Tools, FTK Imager, KAPE, Volatility, Mandiant Redline, Memory Forensics, Disk Forensics, USB Forensics, Velociraptor, Google Rapid & Response (GRR), CaineOS, SIFT Workstation|
+|Threat Hunting & Threat Detection|MITRE ATT&CK, Diamond Intrusion Model, Cyber Kill Chain, ELK, SPLUNK, Microsoft Sentinel, Snort IDS, Suricata, Brim, RITA, OSSEC, Sysmon|
+|Threat Emulation & Ransomware Simulation|MITRE Caldera, FourCore, Atomic Red Team, Infection Monkey, Breach & Attack Simulation (BAS), KnowBe4 RanSim|
+|Detection Engineering|Kusto Query Language, Kibana Query Language, Event Query Language, SIGMA, YARA|
+|Threat Intelligence Platform|MISP, OpenCTI, ThreatConnect, RecordedFuture, Group-IB, CloudSEK, SOCRadar|
+|Endpoint Detection & Response|Microsoft Defender, SentinelOne, Crowdstike, Bitdefender, Sophos Central, Carbon Black, Trend Micro, OpenEDR|
+|Cloud, Containers, OS & Virtualization|AWS, Azure, GCP, Docker, VirtualBox, VMWare, VMWare eXSI, Windows, Linux, macOS|
+|Programming|C, Bash, Python|
+|Phishing Analysis|Phishtool, Gophish, DarkTrace|
+|Malware Analysis|x86_64, Debugging, MobSF, FlareVM, Remnux, Static & Dynamic Analysis|
+|OSINT Gathering|SpiderFoot, Shodan, Censys, FOFA, Maltego|
 
 
 #### Profiles
